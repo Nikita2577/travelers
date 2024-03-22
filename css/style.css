@@ -36,6 +36,9 @@
 	list-style: none;
 }
 
+.container__image{
+	display: none;
+}
 .main{
 	display: grid;
 	grid-template-columns: repeat(10, 1fr);
