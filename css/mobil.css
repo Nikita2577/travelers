@@ -47,9 +47,11 @@
     .container__text{
         grid-column: 1/2;
     }
-    .container__photo{
+
+    .contuiner{
         grid-column: 1/2;
     }
+
     .left{
         grid-row: 1/2;
     }
